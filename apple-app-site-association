@@ -1,15 +1,1 @@
-{
-   "applinks": {
-        "apps": ["T5MPYB37H6.com.anyquestions.ios-dev"],
-        "details": [           
-            {
-                "appID": "T5MPYB37H6.com.anyquestions.ios-dev",
-                "paths": [ "*" ]
-            }
-         ]
-    }
-
-    "webcredentials" : {
-        "apps" : ["T5MPYB37H6.com.anyquestions.ios-dev"]
-    }
-}
+"\n\n\n{\n   \"applinks\": {\n        \"apps\": [\"T5MPYB37H6.com.anyquestions.ios-dev\"],\n        \"details\": [\n            {\n                \"appID\": \"T5MPYB37H6.com.anyquestions.ios-dev\",\n                \"paths\": [ \"*\" ]\n            }\n         ]\n    }\n\n    \"webcredentials\" : {\n        \"apps\" : [\"T5MPYB37H6.com.anyquestions.ios-dev\"]\n    }\n}\n"
