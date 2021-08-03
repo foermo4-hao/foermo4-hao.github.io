@@ -1,15 +1,15 @@
 {
    "applinks": {
-        "apps": ["T5MPYB37H6.com.anyquestions.ios-dev"],
+        "apps": [],
         "details": [           
             {
-                "appID": "T5MPYB37H6.com.anyquestions.ios-dev",
+                "appID": "U8NV7G47D5.com.lwh.baiduDemo",
                 "paths": [ "*" ]
             }
          ]
     }
 
     "webcredentials" : {
-        "apps" : ["T5MPYB37H6.com.anyquestions.ios-dev"]
+        "apps" : ["U8NV7G47D5.com.lwh.baiduDemo"]
     }
 }
