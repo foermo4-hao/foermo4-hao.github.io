@@ -1,13 +1,12 @@
 {
    "applinks": {
-        "apps": [],
-        "details": [
-            
+        "apps": ["T5MPYB37H6.com.anyquestions.ios-dev"],
+        "details": [           
             {
                 "appID": "T5MPYB37H6.com.anyquestions.ios-dev",
                 "paths": [ "*" ]
             }
-        ]
+         ]
     }
 
     "webcredentials" : {
