@@ -1,0 +1,13 @@
+{
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
+            {
+                "paths":["*"],
+                "appID":"R5R64W7KAJ.com.byteslife.szjjh.test"
+            }
+        ]
+    }
+}
