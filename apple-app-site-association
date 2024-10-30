@@ -1,7 +1,7 @@
 "applinks": {
   "details": [
     {
-      "appIDs": [ "2283R429JA.com.byteslife.szjjh.test"],
+      "appIDs": [ "2283R429JA.com.byteslife.szjjh.test", "R5R64W7KAJ.com.byteslife.szjjh.test"],
       "components": [
         {
           "#": "no_universal_links",
