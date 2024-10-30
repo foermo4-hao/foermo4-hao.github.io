@@ -1,4 +1,5 @@
-"applinks": {
+{
+  "applinks": {
   "details": [
     {
       "appIDs": [ "2283R429JA.com.byteslife.szjjh.test", "R5R64W7KAJ.com.byteslife.szjjh.test"],
@@ -25,4 +26,5 @@
       ]
     }
   ]
+ }
 }
